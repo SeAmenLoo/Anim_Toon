@@ -1,0 +1,2 @@
+E:\__d\uP\toon_19\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\__d\uP\toon_19\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
